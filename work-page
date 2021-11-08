@@ -1,0 +1,174 @@
+work page 3 - Art Fair
+
+1. 사진
+
+CSS
+.unsplash3Wq2HI5mTaI {
+  width: 1400px;
+  height: 1080px;
+  margin: 400px 0 0;
+  padding: 462px 619px 463px 626px;
+  background-color: #ff9292;
+}
+HTML
+<div class="unsplash3Wq2HI5mTaI"></div>
+
+1-1. Art Fair (메인 타이포)
+
+CSS
+.Art-Fair {
+  width: 259px;
+  height: 83px;
+  margin: 0 899px 48px 4px;
+  font-family: Tauri;
+  font-size: 66px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+HTML
+<span class="Art-Fair">
+  Art Fair
+</span>
+
+1-2 서브 타이포
+
+CSS
+.Thanks-to-all-of-our-25000-guests-that-attended-the-inaugural-Digital-Art-Fair-Asia-in-Seoul-South {
+  width: 1157px;
+  height: 193px;
+  margin: 48px 1px 77.5px 4px;
+  font-family: Tauri;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+HTML
+<span class="Thanks-to-all-of-our-25000-guests-that-attended-the-inaugural-Digital-Art-Fair-Asia-in-Seoul-South">
+  Thanks to all of our 25,000 guests that attended the inaugural Digital Art Fair Asia in Seoul, South Korea. We look forward to sharing even more groundbreaking digital art experiences with you in the future. Stay tuned for more news and info soon. For now please take a look through the NFT artwork we still have available below.
+</span>
+
+1-3. 라인
+
+CSS
+.Line-3 {
+  width: 1162px;
+  height: 3px;
+  margin: 77.5px 0 0;
+  border: solid 3px #000;
+}
+HTML
+<div class="Line-3"></div>
+
+1-4. 두번째 사진
+
+CSS
+.unsplashWaep-rXklZc {
+  width: 1400px;
+  height: 1080px;
+  margin: 1080px 0 0;
+  background-color: #ff9292;
+}
+HTML
+<div class="unsplashWaep-rXklZc"></div>
+
+1-5. 세번째 사진
+
+CSS
+.unsplashmGBB7gAJXhg {
+  width: 1400px;
+  height: 1080px;
+  margin: 1080px 0 105px;
+  background-color: #c36a6a;
+}
+HTML
+<div class="unsplashmGBB7gAJXhg"></div>
+
+1-6 cooperative work
+
+CSS
+.cooperative-work {
+  width: 543px;
+  height: 83px;
+  margin: 105px 734px 48px 123px;
+  font-family: Tauri;
+  font-size: 66px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+HTML
+<span class="cooperative-work">
+  cooperative work
+</span>
+
+
+1-7 서브 텍스트
+
+CSS
+.Cooperation-is-a-process-by-which-the-components-of-a-system-work-together-to-achieve-the-global-pro {
+  width: 1157px;
+  height: 182px;
+  margin: 48px 120px 134.5px 123px;
+  font-family: Tauri;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+HTML
+<span class="Cooperation-is-a-process-by-which-the-components-of-a-system-work-together-to-achieve-the-global-pro">
+  Cooperation is a process by which the components of a system work together to achieve the global properties.In other words, individual components that appear to be "selfish" and independent work together to create a highly complex, greater-than-the-sum-of-its-parts system. The phenomenon is generally known as 'emergence' and is considered an outcome of self-organization.
+</span>
+
+1-8 cooperative work
+
+CSS
+.cooperative-work {
+  width: 543px;
+  height: 83px;
+  margin: 46.5px 284px 48px 169px;
+  font-family: Tauri;
+  font-size: 66px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+HTML
+<span class="cooperative-work">
+  cooperative work
+</span>
+
+1-10 라인
+
+CSS
+.Line-5 {
+  width: 1162px;
+  height: 3px;
+  margin: 134.5px 119px 533.5px;
+  border: solid 3px #000;
+}
+HTML
+<div class="Line-5"></div>
+
